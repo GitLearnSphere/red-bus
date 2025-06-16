@@ -1,0 +1,4 @@
+buy
+sell
+get
+push
